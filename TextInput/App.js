@@ -16,6 +16,8 @@ export default function App() {
     }
   }
 
+  // Test github
+
   return (
     <View style={styles.container}>
       <StatusBar style="auto" />
